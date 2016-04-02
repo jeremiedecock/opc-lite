@@ -30,10 +30,10 @@ color_list = [
         {"tk":"red", "fr":"rouge"},
         {"tk":"green", "fr":"vert"},
         {"tk":"blue", "fr":"bleu"},
-        {"tk":"brown", "fr":"marron"},
-        {"tk":"gray", "fr":"gris"},
-        {"tk":"orange", "fr":"orange"},
-        {"tk":"pink", "fr":"rose"},
+#        {"tk":"brown", "fr":"marron"},
+#        {"tk":"gray", "fr":"gris"},
+#        {"tk":"orange", "fr":"orange"},
+#        {"tk":"pink", "fr":"rose"},
         {"tk":"yellow", "fr":"jaune"}
     ]
 
